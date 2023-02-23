@@ -1,4 +1,7 @@
 .vscode/
-bin/
+bin/*.*
+bin/BL/*.*
+bin/BL/Entities/*.*
+bin/GUI/*.*
 *.class
 *.log

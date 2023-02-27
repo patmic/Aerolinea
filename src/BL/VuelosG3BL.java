@@ -26,6 +26,7 @@ public class VuelosG3BL {
             vuelo.setHasta(rs.getString("HASTA"));
             vuelo.setFecha(rs.getString("FECHA"));
             vuelo.setPrecio(rs.getString("PRECIO"));
+            vuelo.setDuracion(rs.getString("DURACION"));
             vuelo.setClase(rs.getString("CLASE_VUELO"));
             vuelo.setHoraSalida(rs.getString("HORA_SALIDA"));
             vuelo.setHoraLlegada(rs.getString("HORA_LLEGADA"));
@@ -34,4 +35,6 @@ public class VuelosG3BL {
 
         return vuelos;
     }
+
+    
 }

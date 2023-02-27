@@ -6,7 +6,7 @@ import java.util.Properties;
 
 /**
  * AppConfiguration
- * Definición de variables globales, constantes y configuraciones
+ * Definiciï¿½n de variables globales, constantes y configuraciones
  * para toda la aplicacion
  * patmic
  */

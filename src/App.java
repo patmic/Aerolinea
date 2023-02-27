@@ -1,5 +1,8 @@
+import GUI.PanelMisViajesG3;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, aerolinea of pat_mic......!");
+        PanelMisViajesG3 panel = new PanelMisViajesG3();
+
     }
 }
